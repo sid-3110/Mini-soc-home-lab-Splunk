@@ -34,14 +34,14 @@ Steps:
 3. Open **PowerShell as Administrator**.
 
 4. Install Sysmon with the default configuration:
-
-```powershell
-sysmon64.exe -accepteula -i
+![WhatsApp Image 2026-01-20 at 4 12 34 PM(1)](https://github.com/user-attachments/assets/3796c425-7ce1-412c-9be7-a2d5f24d8a3d)
 
 
-![WhatsApp Image 2026-01-20 at 4 12 34 PM(1)](https://github.com/user-attachments/assets/cdfc866e-0c52-4af8-b562-23baeefb734c)
 
-![WhatsApp Image 2026-01-20 at 4 12 34 PM](https://github.com/user-attachments/assets/04a8901f-e128-4294-a3ee-2c209bf46a56)
+![WhatsApp Image 2026-01-20 at 4 12 34 PM](https://github.com/user-attachments/assets/20d83776-c93f-49a8-aa50-e5c29661ad6a)
+
+
+
 
 
 
