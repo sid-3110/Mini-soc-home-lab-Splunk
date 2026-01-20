@@ -37,5 +37,7 @@ Steps:
 
 ```powershell
 sysmon64.exe -accepteula -i
+![WhatsApp Image 2026-01-20 at 4 12 34 PM](https://github.com/user-attachments/assets/a6e02b88-2c26-42d1-8a8e-643dd46b0864)
+
 
 
