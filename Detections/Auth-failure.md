@@ -17,6 +17,7 @@ The detection identifies multiple failed authentication attempts
 from the same source targeting the same user account within a 5-minute window.
 
 ---
+![WhatsApp Image 2026-01-23 at 5 54 08 PM](https://github.com/user-attachments/assets/f823e6a2-2d50-4ae6-a870-b4a427013e92)
 
 ### SPL Query
 ```spl
@@ -26,5 +27,4 @@ index=windows EventCode=4625
 | where failed_attempts > 5
 
 
-![WhatsApp Image 2026-01-23 at 5 54 08 PM](https://github.com/user-attachments/assets/b41b8a79-f80a-4636-bbc2-add130fda3d1)
 
