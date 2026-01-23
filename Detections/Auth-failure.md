@@ -24,4 +24,7 @@ index=windows EventCode=4625
 | bin _time span=5m
 | stats count as failed_attempts by _time, Account_Name, src_ip
 | where failed_attempts > 5
-![WhatsApp Image 2026-01-23 at 5 54 08 PM](https://github.com/user-attachments/assets/75190cd3-a163-42fe-9603-f57a5815ac4a)
+
+
+![WhatsApp Image 2026-01-23 at 5 54 08 PM](https://github.com/user-attachments/assets/b41b8a79-f80a-4636-bbc2-add130fda3d1)
+
