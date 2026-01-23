@@ -13,7 +13,7 @@ The lab focuses on log ingestion, attack simulation, alert detection, investigat
   - Windows Event Logs
   - Sysmon
   - Linux Authentication Logs
-  - Firewall Logs
+  
 - **Forwarding:** Splunk Universal Forwarder
 
 ---
